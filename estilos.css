@@ -1,0 +1,38 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #EABA00;
+}
+
+#exposiciones{
+    background-color: #009498;
+    color: white;
+}
+
+#barradenav{
+    font-size: 1.5rem;
+}
+#barradenav :hover{
+    color: white;
+}
+
+h1,h2,h3{
+    font-family: 'Besley', serif;
+}
+
+.card-body{
+background-color: white;
+}
+
+footer{
+    background-color: #009498;
+    color: white;
+}
+
+.textfooter{
+    font-size: 20px;
+}
+
+#direcciones{
+    color: white;
+    text-decoration-line: none;
+}
